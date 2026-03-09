@@ -78,6 +78,7 @@ Objetivo:
 ## Logística
 
 * Separação de mercadorias
+* Gestão de cobrança de retornáveis
 * Planejamento de rotas de entrega
 * Controle de entregas
 
