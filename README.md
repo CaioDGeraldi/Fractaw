@@ -161,20 +161,16 @@ Objetivo:
 
 Backend
 
-* Python
-* Django
-* Django REST Framework
+* Python/Django
 
 Frontend
 
-* React
 * HTML
 * CSS
 * JavaScript
 
 Infraestrutura
 
-* API REST
 * Arquitetura headless
 * SaaS multi-tenant
 
